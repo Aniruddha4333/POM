@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-02-06T08:12:39Z" name="Suite" finished-at="2018-02-06T08:13:24Z" duration-ms="45209">
+    <groups>
+    </groups>
+    <test started-at="2018-02-06T08:12:39Z" name="Test" finished-at="2018-02-06T08:13:24Z" duration-ms="45209">
+      <class name="test.First">
+        <test-method is-config="true" signature="statUp()[pri:0, instance:test.First@3febb011]" started-at="2018-02-06T13:42:39Z" name="statUp" finished-at="2018-02-06T13:42:45Z" duration-ms="5718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statUp -->
+        <test-method signature="firstTest()[pri:0, instance:test.First@3febb011]" started-at="2018-02-06T13:42:45Z" name="firstTest" finished-at="2018-02-06T13:43:02Z" duration-ms="17219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.First@3febb011]" started-at="2018-02-06T13:43:02Z" name="end" finished-at="2018-02-06T13:43:04Z" duration-ms="1610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="statUp()[pri:0, instance:test.First@3febb011]" started-at="2018-02-06T13:43:04Z" name="statUp" finished-at="2018-02-06T13:43:08Z" duration-ms="3880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statUp -->
+        <test-method signature="secondTest()[pri:0, instance:test.First@3febb011]" started-at="2018-02-06T13:43:08Z" name="secondTest" finished-at="2018-02-06T13:43:23Z" duration-ms="15395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.First@3febb011]" started-at="2018-02-06T13:43:23Z" name="end" finished-at="2018-02-06T13:43:24Z" duration-ms="1319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- test.First -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2018-02-06T08:13:25Z" name="Suite (0)" finished-at="2018-02-06T08:14:16Z" duration-ms="51337">
+    <groups>
+    </groups>
+    <test started-at="2018-02-06T08:13:25Z" name="Test" finished-at="2018-02-06T08:14:16Z" duration-ms="51337">
+      <class name="test.First">
+        <test-method is-config="true" signature="statUp()[pri:0, instance:test.First@409bf450]" started-at="2018-02-06T13:43:25Z" name="statUp" finished-at="2018-02-06T13:43:30Z" duration-ms="5527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statUp -->
+        <test-method signature="firstTest()[pri:0, instance:test.First@409bf450]" started-at="2018-02-06T13:43:30Z" name="firstTest" finished-at="2018-02-06T13:43:46Z" duration-ms="15918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.First@409bf450]" started-at="2018-02-06T13:43:46Z" name="end" finished-at="2018-02-06T13:43:48Z" duration-ms="1456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="statUp()[pri:0, instance:test.First@409bf450]" started-at="2018-02-06T13:43:48Z" name="statUp" finished-at="2018-02-06T13:43:55Z" duration-ms="7235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statUp -->
+        <test-method signature="secondTest()[pri:0, instance:test.First@409bf450]" started-at="2018-02-06T13:43:55Z" name="secondTest" finished-at="2018-02-06T13:44:14Z" duration-ms="19484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.First@409bf450]" started-at="2018-02-06T13:44:14Z" name="end" finished-at="2018-02-06T13:44:16Z" duration-ms="1711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- test.First -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
