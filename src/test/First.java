@@ -21,7 +21,7 @@ public class First extends TestBase {
 	
 	public First() throws IOException{
 		super();
-		System.out.println("first");
+		//System.out.println("first");
 		
 	}
 	
@@ -33,12 +33,13 @@ public class First extends TestBase {
 		loginPage = new LoginPage(driver);
 	}
 	
-	@Test(priority=0)
+	@Test
 	public void firstTest(){
 		
 		getURL();
 		Assert.assertTrue(homepage.isDisplayedHomePage());
 		System.out.println(homepage.isDisplayedHomePage());
+		System.out.println("inside login test 1");
 		homepage.clickOnSignIn();
 		loginPage.login("patil.aniruddha8@gmail.com", "Ani4333#");
 		//System.out.println(username+password);
